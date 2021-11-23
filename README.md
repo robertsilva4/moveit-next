@@ -9,6 +9,6 @@
 - Vercel
 
 ## Utilização do código fonte
-- Faça o clone do projeto
+- Faça o clone do projeto em : git clone <code>https://github.com/robertsilva4/moveit-next.git</code>
 - Execute o comando: *npm install* para instalar as dependência
 - Execute o comando: *npm run* para iniciar o projeto
