@@ -1,7 +1,7 @@
 # moveit-next
 - Projedo Desenvolvido durante a semana #NLW (Next Level Week)
 
-<a href="https://move-it-aih37fd35-robertsilva4.vercel.app"><img src="https://github.com/robertsilva4/moveit-next/blob/main/move-it.png" width="1100" height="600"></img></a>
+<a href="https://move-it-aih37fd35-robertsilva4.vercel.app"><img src="https://github.com/robertsilva4/moveit-next/blob/main/move-it.png" width="1100" height="500"></img></a>
 ## Tecnologias utilizadas
 - ReactJS
 
